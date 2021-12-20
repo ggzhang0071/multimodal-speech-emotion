@@ -1,3 +1,8 @@
 nltk>=3.4.5
 scikit-learn==0.20.0
 chardet==3.0.4
+#jupyter
+#jupyterlab
+
+#nltk==3.3
+
